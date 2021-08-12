@@ -8,7 +8,7 @@
 
 # Projeto Digital Innovation One - Desenvolvendo seu blog com as tecnologias de Java e Angular 
 Este projeto foi proposto pela Digital Innovation One
-- Link do código original: 
+- Link do código original: https://github.com/wheslleyrimar/blog
 - Professora: Wheslley Rimar Bezerra
 - Aula: https://web.digitalinnovation.one/project/desenvolvendo-seu-blog-com-as-tecnologias-de-java-e-angular/learning/ce73b515-e3a8-4378-a4c4-2bf52a811409?back=/track/capgemini-fullstack-java-and-angular
 
